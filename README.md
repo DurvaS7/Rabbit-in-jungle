@@ -12,5 +12,5 @@ A simple JavaScript game where a rabbit collects apples and avoids obstacles.
 3. Collect apples & carrots, avoid obstacles!  
 
 ## 🌟 Demo  
-![Game Preview](https://github.com/DurvaS7/Rabbit-in-jungle/blob/main/rabbit-in-jungle-.gif)  
+![Game Preview](https://github.com/DurvaS7/Rabbit-in-jungle/blob/main/rabbit-in-jungle.mp4)  
 
